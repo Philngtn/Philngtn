@@ -1,6 +1,6 @@
 - 👋 Hi, Phil Nguyen
 - 👀 I’m interested in coding and exploring new technological areas (Mars as well) 
-- 🌱 I’m currently learning mobile development / UXUI and Hardware Verification
+- 🌱 I’m currently learning Mobile Development / UXUI and Hardware Verification
 - 💞️ I’m looking to collaborate on 
 - 📫 Send me an email if you like me, thank youuuu : philngtn@gmail.com
 
