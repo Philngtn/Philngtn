@@ -1,4 +1,4 @@
-- 👋 Hi, Phil Nguyen
+- 👋 Hi, My name is Phil Nguyen
 - 👀 I’m interested in coding and exploring new technological areas (Mars as well) 
 - 🌱 I’m currently learning Mobile Development / UXUI and Hardware Verification
 - 💞️ I’m looking to collaborate on 
